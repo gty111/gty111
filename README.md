@@ -2,7 +2,7 @@
 
 
 
-- Postgraduate at Sun Yat-sen
+- Postgraduate student at Sun Yat-sen
 
 - Simulaters, GPU, architecture
 
