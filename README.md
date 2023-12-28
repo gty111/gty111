@@ -3,6 +3,6 @@
 
 - Simulaters, GPU, architecture
 
-- [Visit my personal web](https://gty111.github.io/)
+- [Visit my personal web](https://gty111.github.io/info)
 
 
