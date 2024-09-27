@@ -1,5 +1,5 @@
 
-- Postgraduate student at Sun Yat-sen university
+- PH.D. student at Sun Yat-sen university
 
 - LLM Inference, HPC, Simulaters, GPU, architecture
 
