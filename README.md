@@ -1,7 +1,7 @@
 
 - PH.D. student at Sun Yat-sen university
 
-- LLM Inference, HPC, Simulaters, GPU, architecture
+- LLM Inference, MLSys, Simulaters, GPU architecture
 
 - [Visit my personal web](https://gty111.github.io/info)
 
