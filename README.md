@@ -7,7 +7,7 @@
 
 ## News
 
-- We have released [gLLM](https://github.com/gty111/gLLM), an efficient pipeline parallelism inference engine.
+- We have released [gLLM](https://github.com/gty111/gLLM), an efficient pipeline parallelism inference engine for LLM.
 
 ## PRs for Project
 - sglang: Fix port number overflow [link](https://github.com/sgl-project/sglang/pull/2826)
