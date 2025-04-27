@@ -5,6 +5,10 @@
 
 - [Visit my personal web](https://gty111.github.io/info)
 
+## News
+
+- We have released [gLLM](https://github.com/gty111/gLLM), an efficient pipeline parallelism inference engine.
+
 ## PRs for Project
 - sglang: Fix port number overflow [link](https://github.com/sgl-project/sglang/pull/2826)
 - xDiT: Enable warm up for VAE [link](https://github.com/xdit-project/xDiT/pull/300)
