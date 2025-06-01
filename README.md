@@ -7,8 +7,8 @@
 
 ## News
 
-- [2025/05/28] EFIM is accepted by Euro-Par'25 [\[arxiv\]](https://arxiv.org/abs/2505.21889) [\[Code\]](https://github.com/gty111/EFIM)
-- [2025/04/27] We have released [gLLM](https://github.com/gty111/gLLM), an efficient pipeline parallelism inference engine for LLM
+- [2025/05/28] [\[arxiv\]](https://arxiv.org/abs/2505.21889) [\[Code\]](https://github.com/gty111/EFIM) EFIM is accepted by Euro-Par'25 
+- [2025/04/27] [\[arXiv\]](https://arxiv.org/abs/2504.14775) [\[Code\]](https://github.com/gty111/gLLM) We have released gLLM, an efficient pipeline parallelism inference engine for LLM 
 
 ## PRs for Project
 - sglang: Fix port number overflow [link](https://github.com/sgl-project/sglang/pull/2826)
