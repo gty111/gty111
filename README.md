@@ -7,7 +7,7 @@
 
 ## News
 
-- [2025/05/28] [\[arxiv\]](https://arxiv.org/abs/2505.21889) [\[Code\]](https://github.com/gty111/EFIM) EFIM is accepted by Euro-Par'25 
+- [2025/05/28] [\[arXiv\]](https://arxiv.org/abs/2505.21889) [\[Code\]](https://github.com/gty111/EFIM) EFIM is accepted by Euro-Par'25 
 - [2025/04/27] [\[arXiv\]](https://arxiv.org/abs/2504.14775) [\[Code\]](https://github.com/gty111/gLLM) We have released gLLM, an efficient pipeline parallelism inference engine for LLM 
 
 ## PRs for Project
