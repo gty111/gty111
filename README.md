@@ -11,6 +11,7 @@
 - [2025/04/27] [\[arXiv\]](https://arxiv.org/abs/2504.14775) [\[Code\]](https://github.com/gty111/gLLM) We have released gLLM, an efficient pipeline parallelism inference engine for LLM 
 
 ## PRs for Project
+- vLLM: [Bugfix] Fix benchmark_moe.py [link](https://github.com/vllm-project/vllm/pull/19016)
 - sglang: Fix port number overflow [link](https://github.com/sgl-project/sglang/pull/2826)
 - xDiT: Enable warm up for VAE [link](https://github.com/xdit-project/xDiT/pull/300)
 - xDiT: Fix parallel vae [link](https://github.com/xdit-project/xDiT/pull/281)
