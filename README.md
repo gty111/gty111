@@ -12,6 +12,7 @@
 - [2025/04/27] [\[arXiv\]](https://arxiv.org/abs/2504.14775) [\[Code\]](https://github.com/gty111/gLLM) We have released gLLM, an efficient pipeline parallelism inference engine for LLM.
 
 ## PRs for Project
+- SGLang: feat: support EPD disaggregation [link](https://github.com/sgl-project/sglang/pull/12263)
 - SGLang: [VLM] Support PP for Qwen2.5-VL [link](https://github.com/sgl-project/sglang/pull/13075)
 - SGLang: Add PP support for dots_vlm [link](https://github.com/sgl-project/sglang/pull/12763)
 - vLLM: [Bugfix] Fix benchmark_moe.py [link](https://github.com/vllm-project/vllm/pull/19016)
