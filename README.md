@@ -7,6 +7,7 @@
 
 ## News
 
+- [2026/01/13] [\[LMSYS blog\]](https://lmsys.org/blog/2026-01-12-epd/) EPD Disaggregation: Elastic Encoder Scaling for Vision-Language Models in SGLang
 - [2025/06/27] [\[arXiv\]](https://arxiv.org/abs/2504.14775) [\[Code\]](https://github.com/gty111/gLLM) gLLM is accepted by SC'25. Congratulations!
 - [2025/05/28] [\[arXiv\]](https://arxiv.org/abs/2505.21889) [\[Code\]](https://github.com/gty111/EFIM) EFIM is accepted by Euro-Par'25 
 - [2025/04/27] [\[arXiv\]](https://arxiv.org/abs/2504.14775) [\[Code\]](https://github.com/gty111/gLLM) We have released gLLM, an efficient pipeline parallelism inference engine for LLM.
