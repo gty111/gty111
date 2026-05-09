@@ -13,6 +13,7 @@
 - [2025/04/27] [\[arXiv\]](https://arxiv.org/abs/2504.14775) [\[Code\]](https://github.com/gty111/gLLM) We have released gLLM, an efficient pipeline parallelism inference engine for LLM.
 
 ## PRs for Project
+- vLLM: Fix the order of _free_encoder_inputs [link](https://github.com/vllm-project/vllm/pull/38907)
 - vLLM: Remove unused EVS functions in qwen3_vl.py [link](https://github.com/vllm-project/vllm/pull/37183)
 - vLLM: Support online use_audio_in_video [link](https://github.com/vllm-project/vllm/pull/36319)
 - SGLang: Support PP for zmq_to_scheduler [link](https://github.com/sgl-project/sglang/pull/15312)
