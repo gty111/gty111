@@ -15,6 +15,7 @@
 # PRs for Project
 
 ## vLLM
+- [[Bugfix][Multimodal] Fix Qwen3-Omni use_audio_in_video with mixed image/video inputs](https://github.com/vllm-project/vllm/pull/46213)
 - [[Model] Support Unlimited OCR](https://github.com/vllm-project/vllm/pull/46564)
 - [Fix the order of _free_encoder_inputs](https://github.com/vllm-project/vllm/pull/38907)
 - [Remove unused EVS functions in qwen3_vl.py](https://github.com/vllm-project/vllm/pull/37183)
