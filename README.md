@@ -14,7 +14,7 @@
 
 # Merged PRs by Project
 
-## vLLM
+## [vLLM](https://github.com/vllm-project/vllm)
 
 32 merged PRs
 
@@ -57,7 +57,7 @@
 
 </details>
 
-## SGLang
+## [SGLang](https://github.com/sgl-project/sglang)
 
 6 merged PRs
 
@@ -74,20 +74,20 @@
 
 </details>
 
-## xDiT
+## [xDiT](https://github.com/xdit-project/xDiT)
 
 2 merged PRs
 
 - [Enable warm up for VAE](https://github.com/xdit-project/xDiT/pull/300)
 - [Fix parallel vae](https://github.com/xdit-project/xDiT/pull/281)
 
-## DistVAE
+## [DistVAE](https://github.com/xdit-project/DistVAE)
 
 1 merged PR
 
 - [Fix batch dimension](https://github.com/xdit-project/DistVAE/pull/3)
 
-## TVM
+## [TVM](https://github.com/apache/tvm)
 
 2 merged PRs
 
