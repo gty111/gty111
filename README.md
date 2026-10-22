@@ -57,6 +57,12 @@
 
 </details>
 
+## [vLLM Router](https://github.com/vllm-project/router)
+
+1 merged PR
+
+- [\[Feature\] Add EPD routing with JSON metadata](https://github.com/vllm-project/router/pull/266)
+
 ## [SGLang](https://github.com/sgl-project/sglang)
 
 6 merged PRs
